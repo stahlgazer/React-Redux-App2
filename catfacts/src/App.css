@@ -24,11 +24,13 @@ p {
   max-width:50%;
   margin:0 auto;
   padding:2%;
+  border-radius:20px;
 }
 
 button {
   background-color:white;
   padding:2%;
+  border-radius:5px;
 }
 
 button:hover{
