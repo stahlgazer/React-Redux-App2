@@ -20,7 +20,7 @@ p {
 }
 
 .main-container{
-  background-color:black;
+  background-color:lightslategray;
   max-width:50%;
   margin:0 auto;
   padding:2%;
@@ -34,5 +34,5 @@ button {
 }
 
 button:hover{
-  background-color:green;
+  background-color:lightgreen;
 }
